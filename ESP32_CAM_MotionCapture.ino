@@ -1,4 +1,5 @@
 // ESP32 CAM CODE FOR "Motion-Activated-Photo-Capture"
+// Many Thanks to https://randomnerdtutorials.com/esp32-cam-pir-motion-detector-photo-capture/
 
 #include "esp_camera.h"
 #include "Arduino.h"
